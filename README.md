@@ -2,13 +2,7 @@
 
 ## Team Members
 - Sakshi Mahadik
-- Jay Shah
 - Jaiwin Shah
+- Jay Shah
 - Om Jain
 
-Grading Rubric
-
-(j) [Poll Me](docs.google.com/spreadsheets/d/1r1AEmEvXcOO7HAB0PFVStRxUCe3mMJCAZnB6RwYAv5o/edit#gid=1485884294)
-(M) Sentiment analyzer: docs.google.com/spreadsheets/d/1r1AEmEvXcOO7HAB0PFVStRxUCe3mMJCAZnB6RwYAv5o/edit#gid=2096460505
-(f) Slash: docs.google.com/spreadsheets/d/1r1AEmEvXcOO7HAB0PFVStRxUCe3mMJCAZnB6RwYAv5o/edit#gid=1853902112
-(U) Classbot,a Slackbot: docs.google.com/spreadsheets/d/1r1AEmEvXcOO7HAB0PFVStRxUCe3mMJCAZnB6RwYAv5o/edit#gid=1377805409
