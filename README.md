@@ -9,6 +9,6 @@
 Grading Rubric
 
 (j) Poll Me: docs.google.com/spreadsheets/d/1r1AEmEvXcOO7HAB0PFVStRxUCe3mMJCAZnB6RwYAv5o/edit#gid=1485884294
-(M) C.E.L.T Sentiment analyzer: docs.google.com/spreadsheets/d/1r1AEmEvXcOO7HAB0PFVStRxUCe3mMJCAZnB6RwYAv5o/edit#gid=2096460505
-(f) Slash-(f): docs.google.com/spreadsheets/d/1r1AEmEvXcOO7HAB0PFVStRxUCe3mMJCAZnB6RwYAv5o/edit#gid=1853902112
+(M) Sentiment analyzer: docs.google.com/spreadsheets/d/1r1AEmEvXcOO7HAB0PFVStRxUCe3mMJCAZnB6RwYAv5o/edit#gid=2096460505
+(f) Slash: docs.google.com/spreadsheets/d/1r1AEmEvXcOO7HAB0PFVStRxUCe3mMJCAZnB6RwYAv5o/edit#gid=1853902112
 (U) Classbot,a Slackbot: docs.google.com/spreadsheets/d/1r1AEmEvXcOO7HAB0PFVStRxUCe3mMJCAZnB6RwYAv5o/edit#gid=1377805409
